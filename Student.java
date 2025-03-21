@@ -16,6 +16,7 @@ public class Student {
         System.out.println("Student Name: " + name);
         System.out.println("Age: " + age);
         System.out.println("Course: " + course);
+        System.out.println("Course: " + course);
     }
 
     // Main method to run the program
